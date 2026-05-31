@@ -1,0 +1,12 @@
+CDGaitFusion discriminability summary
+Embedding file: /root/sq/output/GREW/figures/grew_identity_embeddings_180000.npz
+Samples: 12000
+Feature dim: 4096
+Identities: 6000
+Pair samples: 120000
+Mean intra-class cosine distance: 0.181912
+Mean inter-class cosine distance: 0.514864
+Inter/Intra distance ratio: 2.830287
+ROC AUC: 0.986566
+EER: 0.058050
+EER threshold(similarity): 0.692367
